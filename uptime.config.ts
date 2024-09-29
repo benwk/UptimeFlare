@@ -1,6 +1,6 @@
 const pageConfig = {
   // Title for your status page
-  title: "Ben's Status Page",
+  title: "Ben's Status",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
     { link: 'https://github.com/benwk/', label: 'GtiHub' },
