@@ -31,7 +31,7 @@ export default function Header() {
             variant="gradient"
             gradient={{ from: 'blue', to: 'cyan', deg: 90 }}
           >
-            Ben's Status Page
+            Ben&apos;s Status Page
           </Text>
         </div>
 
