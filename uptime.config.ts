@@ -93,12 +93,12 @@ const workerConfig = {
   notification: {
     // [Optional] apprise API server URL
     // if not specified, no notification will be sent
-    // appriseApiServer: "https://apprise.example.com/notify",
+    appriseApiServer: "https://message.benwk.io/notify",
     // [Optional] recipient URL for apprise, refer to https://github.com/caronc/apprise
     // if not specified, no notification will be sent
-    // recipientUrl: "tgram://bottoken/ChatID",
+    recipientUrl: "discord://1290074070515454054/W4g8PPBh08Da15SywweuodNS2gy7WT-izO0_EuRP6oJnGgDVuyV2g5z1uQy6z7jEslKv/",
     // [Optional] timezone used in notification messages, default to "Etc/GMT"
-    // timeZone: "Asia/Shanghai",
+    timeZone: "Europe/London",
     // [Optional] grace period in minutes before sending a notification
     // notification will be sent only if the monitor is down for N continuous checks after the initial failure
     // if not specified, notification will be sent immediately
